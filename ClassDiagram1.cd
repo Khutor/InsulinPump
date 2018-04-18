@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1" MembersFormat="NameAndType">
+  <Class Name="InsulinPump.Form1">
+    <Position X="1.25" Y="0.5" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>BATAAACFQCAiQBGQAKCAAIACgiIAJAIAQAQAAYJBAIA=</HashCode>
+      <FileName>Form1.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="InsulinPump.Form2">
+    <Position X="5.5" Y="0.5" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAACAAAGAAABAACAKgAAAiwAACQAIAAAAAAAABQgA=</HashCode>
+      <FileName>Form2.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="Form1" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="FixedProgressBar">
+    <Position X="5.75" Y="6" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAgAgAAAACAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ProgBarStyle.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="Form1" />
+    </ShowAsAssociation>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
